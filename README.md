@@ -1,4 +1,4 @@
-### Welcome to DevOps Core Intro Project ###
+### Welcome to DevOps Core Intro Project Repository ###
 
 *Projects are a customizable, flexible tool for planning and tracking your work.*
 
